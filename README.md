@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>10.vježba</title>
+    Digitalni multimedij 1
     <head>
       <link rel="stylesheet" href="stil.css">
 
@@ -18,8 +18,7 @@
         <li><a href="file:///C:/Users/Mototeh/Documents/Grafi%C4%8Dki%20fakultet/Digitalni%20multimedij%201/10.%20vje%C5%BEba/10_vje%C5%BEba_HTML.pdf">Upute za 10. vježbu</a></li>
       </ul>
 
-    </nav>
-    <p><b>O meni:</b><br>
+    <h2><b>O meni:</b></h2>
 Zovem se <b>Petra Smolić</b>. Imam <mark>19</mark> godina. Živim u <i>Svetom Ivanu Zelini</i>. Imam mlađeg brata <span style="color: green">Karla</span>.<br>
 Ovo je kratki citat: <q cite="">You <b><span style="color: red">can</span></b>, you <b><span style="color: red">should</span></b>, and if you’re brave enough to start, you <b><span style="color: red">will</span></b>.</q> - Stephen King <br>
   </p>
