@@ -23,7 +23,7 @@
 Zovem se <b>Petra Smolić</b>. Imam <mark>19</mark> godina. Živim u <i>Svetom Ivanu Zelini</i>. Imam mlađeg brata <span style="color: green">Karla</span>.<br>
 Ovo je kratki citat: <q cite="">You <b><span style="color: red">can</span></b>, you <b><span style="color: red">should</span></b>, and if you’re brave enough to start, you <b><span style="color: red">will</span></b>.</q> - Stephen King <br>
   </p>
-  <p>Ovo je blok citat:
+  <p>Ovo je blok citat:<p>
 <blockquote cite="http://">
   <i>Step out of the history</i> <br>
   <i>That is holding you back.</i> <br>
@@ -46,12 +46,4 @@ Ovo je kratki citat: <q cite="">You <b><span style="color: red">can</span></b>, 
   </ul>
   </body>
 </html>
-  p {color: purple;}
-span { color:white;background-color:white;}
-.crveni {color:red;}
-span border: 2px solid black
-span padding: 10px
-span margin: 10px
-font-family: Arial, Helvetica, sans-serif
-font-size: 14px
-line-height: 16px
+  
