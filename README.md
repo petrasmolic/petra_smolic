@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>10.vježba</title>
     <head>
       <link rel="stylesheet" href="stil.css">
 
@@ -46,3 +46,12 @@ Ovo je kratki citat: <q cite="">You <b><span style="color: red">can</span></b>, 
   </ul>
   </body>
 </html>
+  p {color: purple;}
+span { color:white;background-color:white;}
+.crveni {color:red;}
+span border: 2px solid black
+span padding: 10px
+span margin: 10px
+font-family: Arial, Helvetica, sans-serif
+font-size: 14px
+line-height: 16px
